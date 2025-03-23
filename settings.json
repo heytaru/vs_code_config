@@ -65,4 +65,9 @@
   "prettier.trailingComma": "all",
   "prettier.singleQuote": true,
 
+  // Explorer
+  "workbench.tree.indent": 8,
+  "workbench.tree.enableStickyScroll": false,
+  "explorer.compactFolders": false,
+  "workbench.tree.renderIndentGuides": "always"
 }
