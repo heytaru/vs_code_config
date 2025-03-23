@@ -7,6 +7,11 @@
   "workbench.startupEditor": "none",
   "workbench.tips.enabled": false,
   "workbench.activityBar.location": "hidden",
+  "breadcrumbs.enabled": false,
+  "workbench.sideBar.location": "right",
+  "window.zoomLevel": 0,
+  "window.customTitleBarVisibility": "never",
+  "window.titleBarStyle": "native",
 
   //minimap
   "editor.minimap.enabled": true,
