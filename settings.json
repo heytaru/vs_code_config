@@ -11,8 +11,9 @@
   "workbench.sideBar.location": "right",
   "window.zoomLevel": 0,
   "window.customTitleBarVisibility": "never",
-  "window.titleBarStyle": "native", 
+  // "window.titleBarStyle": "native", 
   "workbench.statusBar.visible": false,
+  "window.menuBarVisibility": "hidden",
 
   //minimap
   "editor.minimap.enabled": true,
@@ -42,4 +43,5 @@
   "editor.cursorSurroundingLines": 5,
   "editor.suggest.showColors": true,
   "zenMode.showTabs": "single",
+  "editor.cursorStyle": "block",
 }
