@@ -9,7 +9,7 @@
   "workbench.activityBar.location": "hidden",
   "breadcrumbs.enabled": false,
   "workbench.sideBar.location": "right",
-  "window.zoomLevel": 0,
+  "window.zoomLevel": 1,
   "window.customTitleBarVisibility": "never",
   "window.titleBarStyle": "custom",
   "workbench.statusBar.visible": false,
@@ -49,7 +49,7 @@
   "editor.lightbulb.enabled": "off",
 
   // Fonts
-  "editor.fontSize": 12,
+  "editor.fontSize": 11,
   "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
 
