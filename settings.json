@@ -2,4 +2,11 @@
   //Themes
   "workbench.colorTheme": "Gruvbox Dark Hard",
   "workbench.iconTheme": "gruvbox-material-icon-theme",
+
+  //Default settings
+  "workbench.startupEditor": "none",
+  "workbench.tips.enabled": false,
+  "workbench.activityBar.location": "hidden",
+
+  
 }
