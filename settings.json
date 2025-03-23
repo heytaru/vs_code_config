@@ -11,7 +11,6 @@
   "workbench.sideBar.location": "right",
   "window.zoomLevel": 0,
   "window.customTitleBarVisibility": "never",
-  // "window.titleBarStyle": "native", 
   "workbench.statusBar.visible": false,
   "window.menuBarVisibility": "hidden",
 
@@ -44,4 +43,11 @@
   "editor.suggest.showColors": true,
   "zenMode.showTabs": "single",
   "editor.cursorStyle": "block",
+
+  // Fonts
+  "editor.fontSize": 12,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+
+  
 }
