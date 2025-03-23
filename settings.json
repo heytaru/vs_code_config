@@ -8,5 +8,7 @@
   "workbench.tips.enabled": false,
   "workbench.activityBar.location": "hidden",
 
-  
+  //minimap
+  "editor.minimap.enabled": true,
+  "editor.minimap.maxColumn": 60
 }
