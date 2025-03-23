@@ -49,5 +49,16 @@
   "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
 
-  
+  // Scrollbars
+  "editor.scrollbar.verticalScrollbarSize": 5,
+  "editor.smoothScrolling": true,
+  "editor.scrollbar.horizontal": "hidden",
+  "workbench.list.smoothScrolling": true,
+
+  // Prettier
+  "prettier.enable": true,
+  "prettier.semi": true,
+  "prettier.trailingComma": "all",
+  "prettier.singleQuote": true,
+
 }
