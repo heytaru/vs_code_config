@@ -33,4 +33,13 @@
     "**/Thumbs.db": true,
     "**/node_modules/": true
   },
+  "editor.inlineSuggest.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.addMissingImports": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorSurroundingLines": 5,
+  "editor.suggest.showColors": true,
+  "zenMode.showTabs": "single",
 }
