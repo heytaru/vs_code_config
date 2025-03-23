@@ -1,9 +1,9 @@
 {
-  //Themes
+  // Themes
   "workbench.colorTheme": "Gruvbox Dark Hard",
   "workbench.iconTheme": "gruvbox-material-icon-theme",
 
-  //Default settings
+  // Default settings
   "workbench.startupEditor": "none",
   "workbench.tips.enabled": false,
   "workbench.activityBar.location": "hidden",
@@ -11,10 +11,12 @@
   "workbench.sideBar.location": "right",
   "window.zoomLevel": 0,
   "window.customTitleBarVisibility": "never",
+  "window.titleBarStyle": "custom",
   "workbench.statusBar.visible": false,
   "window.menuBarVisibility": "hidden",
+  "workbench.editor.showTabs": "multiple",
 
-  //minimap
+  // minimap
   "editor.minimap.enabled": true,
   "editor.minimap.maxColumn": 60,
 
@@ -43,6 +45,8 @@
   "editor.suggest.showColors": true,
   "zenMode.showTabs": "single",
   "editor.cursorStyle": "block",
+  "editor.colorDecorators": true,
+  "editor.lightbulb.enabled": "off",
 
   // Fonts
   "editor.fontSize": 12,
